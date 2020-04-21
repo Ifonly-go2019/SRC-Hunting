@@ -13,5 +13,5 @@ python EDU-domain-crawler.py
 ```
 and copy the results in a file,then use it to a bug scaner.
 
-**TODO: load the results into a file and use the domain to find sub-domain**
+**TODO: load the results into a file and use the domain to find sub-domain automatically**
 ## next tools... maybe oneday.
