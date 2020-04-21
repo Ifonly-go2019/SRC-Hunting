@@ -2,8 +2,8 @@
 Some tools for src bug hunting,made by a salt fish.🐟
 And I'm learning how to make some effective tools.
 ## How to use EDU-domain-crawler.py
-git clone this repo
 ```
+git clone https://github.com/Ifonly-go2019/SRC-Hunting.git
 pip install -r requirements.txt
 python EDU-domain-crawler.py
 ```
