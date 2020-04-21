@@ -4,6 +4,7 @@ Some tools for src bug hunting,made by a salt fish
 git clone this repo
 ```
 pip install -r requirements.txt
+
 ```
 python EDU-domain-crawler.py
 
