@@ -1,6 +1,6 @@
 # SRC-Hunting
 Some tools for src bug hunting,made by a salt fish
-# How to install
+# How to use
 git clone this repo
 ```
 pip install -r requirements.txt
