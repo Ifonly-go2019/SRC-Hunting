@@ -54,4 +54,4 @@ for i in range(32):
             except KeyError:
                 pass
 
-print("[+]-------------ALL Down！------------[+]")
+print("[+]-------------ALL Done！------------[+]")
