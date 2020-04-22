@@ -10,6 +10,7 @@ My Blog : https://hack-for.fun
 ## How to use EDU-domain-crawler.py
 ```
 git clone https://github.com/Ifonly-go2019/SRC-Hunting.git
+cd EDU-domain-crawler
 pip install -r requirements.txt
 python EDU-domain-crawler.py
 ```
