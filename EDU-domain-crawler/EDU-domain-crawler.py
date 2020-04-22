@@ -1,8 +1,8 @@
+# coding: UTF-8
 # author: M0nk3y
 # 功能实现：爬取所有学校网站的主站
 # Data：2020/04/21
 # 根据 http://www.hao123.com/edu  写一个爬虫，爬取所有大学的官方网站
-# coding: UTF-8
 import requests
 import bs4
 import time
