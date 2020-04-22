@@ -15,7 +15,8 @@ python EDU-domain-crawler.py
 ```
 ![](https://cdn.jsdelivr.net/gh/ifonly-go2019/PicGo/images/20200422021712.png)
 ![](https://cdn.jsdelivr.net/gh/ifonly-go2019/PicGo/images/20200422022006.png)
-and copy the results in a file,then use it to a bug scaner.
+![](https://cdn.jsdelivr.net/gh/ifonly-go2019/PicGo/images/20200422102729.png)
+and copy the results in a file ✅,then use it to a bug scaner.
 
-**TODO: load the results into a file and use the domain to find sub-domain automatically**
+**TODO: load the results into a file ✅ and use the result to find sub-domain automatically**
 ## next tools... maybe oneday.
