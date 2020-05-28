@@ -1,5 +1,5 @@
 # SRC-Hunting
-Some tools for src bug hunting,made by a salt fish.🐟
+Some tools for src bug hunting,by a salt fish.🐟
 And I'm learning how to make some effective tools.
 
 My ID is ：M0nk3y / IFONLY
@@ -21,3 +21,4 @@ and copy the results in a file ✅,then use it to a bug scaner.
 
 **TODO: load the results into a file ✅ and use the result to find sub-domain automatically**
 ## next tools... maybe oneday.
+咕咕咕咕咕
